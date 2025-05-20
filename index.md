@@ -15,7 +15,7 @@ The next hybrid SRv6OPS WG session will be at [IETF 123](https://www.ietf.org/me
 | Operator       | Speaker           | 🎥 Video | 📄 Slide |
 |----------------|-------------------|----------|----------|
 | Rakuten Mobile | Akash Agrawal | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=7wX5HBRrGFsevI-4&t=2177) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-23-rakuten-srv6-deployment-case-study-00)|
-| Bell, Canada | Daniel Bernier | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=w93aNVa8PtI96UOl&t=291) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-21-service-programming-00.pdf)|
+| Bell Canada | Daniel Bernier | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=w93aNVa8PtI96UOl&t=291) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-21-service-programming-00.pdf)|
 | Swisscom | Thomas Graf | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=c9YkW4Aoz1N5QhQp&t=2051) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-swisscom-srv6-network-incident-network-analytics-postmortem-00.pdf)|
 | Turkcell       | Mehmet Durmus     | [▶️ Watch](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) | [📄 PDF](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf) |
 | Verizon | Luay Jalil | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=MKXcXVSD5gOU92n9&t=652) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-21-verizon-srv6-in-verizon-01)|
