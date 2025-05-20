@@ -8,6 +8,14 @@ The SRv6OPS Working Group addresses the operational and deployment aspects of Se
 
 ## Operator Presentations
 - TURKCELL - Mehmet Durmus ▶️ [Video](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) 📄 [Slide](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf)
+- China Telecom - Yongqing Zhu ▶️ [Video](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) 📄 [Slide](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf)
+
+## 📂 Operator Presentations
+
+| Operator       | Speaker           | 🎥 Video | 📄 Slide |
+|----------------|-------------------|----------|----------|
+| TURKCELL       | Mehmet Durmus     | [▶️ Watch](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) | [📄 PDF](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf) |
+| China Telecom  | Yongqing Zhu      | [▶️ Watch](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) | [📄 PDF](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf) |
 
 ## 🔗 Useful Links
 - [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
