@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Welcome to SRv6OPS Working Group
+# Welcome to IETF SRv6OPS Working Group
 
-The SRv6OPS Working Group addresses the operational and deployment aspects of Segment Routing over IPv6 (SRv6). It serves as a platform for network operators to share practical experiences and tackle real-world challenges. Some of it is documented through Internet drafts aimed at publication as informational RFCs.
+The SRv6OPS Working Group at the IETF addresses the operational and deployment aspects of Segment Routing over IPv6 (SRv6). It serves as a platform for network operators to share practical experiences and tackle real-world challenges. Some of it is documented through Internet drafts aimed at publication as informational RFCs.
 
 ## 🏛️ Next Meeting
 
