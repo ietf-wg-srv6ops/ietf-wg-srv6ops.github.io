@@ -7,7 +7,7 @@ layout: default
 The SRv6OPS Working Group addresses the operational and deployment aspects of Segment Routing over IPv6 (SRv6). It serves as a platform for network operators to share practical experiences and tackle real-world challenges. Some of it is documented through Internet drafts aimed at publication as informational RFCs.
 
 ## Operator Presentations
-- TURKCELL - Mehmet Durmus ▶️ [Video](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) 📄 [Slide] (https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf)
+- TURKCELL - Mehmet Durmus ▶️ [Video](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278) 📄 [Slide](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-21-srv6-turkcell-01.pdf)
 
 ## 🔗 Useful Links
 - [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
