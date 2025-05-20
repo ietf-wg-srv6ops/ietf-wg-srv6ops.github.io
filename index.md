@@ -7,7 +7,7 @@ layout: default
 The SRv6OPS Working Group addresses the operational and deployment aspects of Segment Routing over IPv6 (SRv6). It serves as a platform for network operators to share practical experiences and tackle real-world challenges. Some of it is documented through Internet-Drafts aimed at publication as Informational RFCs.
 
 ## Operator Presentations
-
+[![Watch the video](https://img.youtube.com/vi/LdCkrbo52WdkeRV8/0.jpg)](https://youtu.be/2yzDrQEdAXU?si=LdCkrbo52WdkeRV8&t=278)
 
 ## 🔗 Useful Links
 - [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
