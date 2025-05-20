@@ -6,6 +6,10 @@ layout: default
 
 The SRv6OPS Working Group addresses the operational and deployment aspects of Segment Routing over IPv6 (SRv6). It serves as a platform for network operators to share practical experiences and tackle real-world challenges. Some of it is documented through Internet drafts aimed at publication as informational RFCs.
 
+## 🏛️ Next Meeting
+
+The next hybrid SRv6OPS WG session will be at [IETF 123](https://www.ietf.org/meeting/123/) in Madrid.
+
 ## 📂 Operator Presentations
 
 | Operator       | Speaker           | 🎥 Video | 📄 Slide |
@@ -20,7 +24,8 @@ The SRv6OPS Working Group addresses the operational and deployment aspects of Se
 | China Unicom | Xinxin Yi | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=yUJoSgIBl54GkibY&t=1546) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-22-china-unicom-srv6-in-the-cloud-00)|
 | China Southern Power Grid | Jiangang Lu | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=c5W5tmCM17msh-MH&t=1165) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-22-srv6-in-smart-grid-00.pdf)|
 
-📢 Are you an operator deploying SRv6? We’d love to hear from you! Reach out to the chairs if you’re interested in sharing your operational experience at a future SRv6OPS Working Group session.
+📢 Are you an operator deploying SRv6? We’d love to hear from you! 
+Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested in sharing your operational experience at a future SRv6OPS Working Group session.
 
 ## 🔗 Useful Links
 - 📄 [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
