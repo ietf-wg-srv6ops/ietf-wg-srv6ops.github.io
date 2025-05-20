@@ -18,12 +18,13 @@ The SRv6OPS Working Group addresses the operational and deployment aspects of Se
 | Verizon | Gyan Mishra | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=1hHeO1AGCDzAcvDl&t=2994) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-24-srv6-dc-multi-pod-scenario-01.pdf)|
 
 ## 🔗 Useful Links
-- [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
-- [Mailing List Archives](https://mailarchive.ietf.org/arch/browse/srv6ops/)
-- [I-Ds in Progress](https://datatracker.ietf.org/group/srv6ops/documents/)
-- [Past Meeting Materials](https://datatracker.ietf.org/group/srv6ops/meetings/)
-- [Wiki](https://wiki.ietf.org/en/group/srv6ops)
-- [GitHub](https://github.com/ietf-wg-srv6ops)
+- 📄 [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
+- ✉️ [Subscribe to the Mailing List](https://mailman3.ietf.org/mailman3/lists/srv6ops.ietf.org/)
+- 🗂️ [Mailing List Archives](https://mailarchive.ietf.org/arch/browse/srv6ops/)
+- 🧪 [I-Ds in Progress](https://datatracker.ietf.org/group/srv6ops/documents/)
+- 📝 [Past Meeting Materials](https://datatracker.ietf.org/group/srv6ops/meetings/)
+- 📚 [Wiki](https://wiki.ietf.org/en/group/srv6ops)
+- 💻 [GitHub](https://github.com/ietf-wg-srv6ops)
 
 ## 👥 Chairs
 - [Daniel Voyer](https://datatracker.ietf.org/person/danvoyerwork@gmail.com)
