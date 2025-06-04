@@ -10,6 +10,9 @@ The SRv6OPS Working Group at the IETF addresses the operational and deployment a
 
 The next hybrid SRv6OPS WG session will be at [IETF 123](https://www.ietf.org/meeting/123/) in Madrid.
 
+📢 **Are you an operator deploying SRv6? We’d love to hear from you!** 
+Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested in sharing your operational experience at a SRv6OPS Working Group session.
+
 ## 📂 Operator Presentations
 
 | Operator       | Speaker           | 🎥 Video | 📄 Slide |
@@ -29,9 +32,13 @@ The next hybrid SRv6OPS WG session will be at [IETF 123](https://www.ietf.org/me
 | Alibaba Cloud | Linjian Song | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=t9h0kjiMK2dD8hjx&t=2627) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-alibaba-cloud-02)|
 | China Mobile | Tianji Jiang | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=F3ERmvO0LbtFHHPt&t=3314) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-china-mobile-00)|
 
+## 📌 Tips for the Presenter 
+- The IETF WG meetings are hybrid and have good remote participation capabilities, allowing you to easily present remotely if needed.  
+- You need to have an IETF data tracker account, easy to set up via [Link](https://datatracker.ietf.org/accounts/create/)
+- For remote participation, there are [fee waivers](https://www.ietf.org/meeting/registration-fee-waivers/) available  
+- Then register for the [IETF meeting](https://www.ietf.org/meeting/upcoming/)
+- Meetecho is the IETF meeting participation tool. Learn about it [here](https://www.ietf.org/meeting/technology/meetecho-guide-participant/)  
 
-📢 Are you an operator deploying SRv6? We’d love to hear from you! 
-Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested in sharing your operational experience at a future SRv6OPS Working Group session.
 
 ## 🔗 Useful Links
 - 📄 [SRv6OPS @ Datatracker](https://datatracker.ietf.org/wg/srv6ops/about/)
