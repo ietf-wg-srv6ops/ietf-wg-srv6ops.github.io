@@ -15,7 +15,7 @@ Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested
 
 ## 📂 Operator Presentations
 
-| Operator       | Speaker           | 🎥 Video | 📄 Slide |
+| ⚙️ Operator    | 🎙️ Speaker        | 🎥 Video | 📄 Slide |
 |----------------|-------------------|----------|----------|
 | Rakuten Mobile | Akash Agrawal | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=7wX5HBRrGFsevI-4&t=2177) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-23-rakuten-srv6-deployment-case-study-00)|
 | Bell Canada | Daniel Bernier | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=w93aNVa8PtI96UOl&t=291) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-21-service-programming-00.pdf)|
