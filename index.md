@@ -8,7 +8,7 @@ The SRv6OPS Working Group at the IETF addresses the operational and deployment a
 
 ## 🏛️ Next Meeting
 
-The next hybrid SRv6OPS WG session will be at [IETF 123](https://www.ietf.org/meeting/123/) in Madrid.
+The next hybrid SRv6OPS WG session will be at [IETF 123](https://www.ietf.org/meeting/123/) in Madrid. We have operator presentations from DT, IX.br, and MTS Web services. See [Agenda](https://datatracker.ietf.org/doc/agenda-123-srv6ops/).
 
 📢 **Are you an operator deploying SRv6? We’d love to hear from you!** 
 Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested in sharing your operational experience at a SRv6OPS Working Group session.
