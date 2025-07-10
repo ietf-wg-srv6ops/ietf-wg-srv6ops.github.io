@@ -48,6 +48,7 @@ Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested
 - 📝 [Past Meeting Materials](https://datatracker.ietf.org/group/srv6ops/meetings/)
 - 📚 [Wiki](https://wiki.ietf.org/en/group/srv6ops)
 - 💻 [GitHub](https://github.com/ietf-wg-srv6ops)
+- ⚙️ [Draft Copy of Whitepaper on Compressed SRv6 Deployment and Operations](https://github.com/ietf-wg-srv6ops/ietf-wg-srv6ops.github.io/blob/main/assets/Draft%20Copy%20of%20Compressed%20SRv6%20Deployment%20and%20Operations%20White%20Paper%20v0.1.pdf)
 
 ## 👥 Chairs
 - [Daniel Voyer](https://datatracker.ietf.org/person/danvoyerwork@gmail.com)
