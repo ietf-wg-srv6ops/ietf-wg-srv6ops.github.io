@@ -49,7 +49,7 @@ Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested
 - ✉️ [Subscribe to the Mailing List](https://mailman3.ietf.org/mailman3/lists/srv6ops.ietf.org/)
 - 🗂️ [Mailing List Archives](https://mailarchive.ietf.org/arch/browse/srv6ops/)
 - 🧪 [I-Ds in Progress](https://datatracker.ietf.org/group/srv6ops/documents/)
-- 📝 [Past Meeting Materials](https://datatracker.ietf.org/group/srv6ops/meetings/)
+- 📝 [Past Meeting Materials: Agenda, Minutes, & Slides](https://datatracker.ietf.org/group/srv6ops/meetings/)
 - 📚 [Wiki](https://wiki.ietf.org/en/group/srv6ops)
 - 💻 [GitHub](https://github.com/ietf-wg-srv6ops)
 - ⚙️ [Copy of Whitepaper on Compressed SRv6 Deployment and Operations](https://github.com/ietf-wg-srv6ops/ietf-wg-srv6ops.github.io/raw/refs/heads/main/assets/Copy%20of%20Compressed%20SRv6%20Deployment%20and%20Operations%20White%20Paper)
