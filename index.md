@@ -8,7 +8,7 @@ The SRv6OPS Working Group at the IETF addresses the operational and deployment a
 
 ## 🏛️ Next Meeting
 
-The next hybrid SRv6OPS WG session will be at [IETF 125](https://www.ietf.org/meeting/125/) in Shenzhen from March 14-20.
+The next hybrid SRv6OPS WG session will be at [IETF 126](https://www.ietf.org/meeting/126/) in Vienna from July 18-24.
 
 📢 **Are you an operator deploying SRv6? We’d love to hear from you!** 
 Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested in sharing your operational experience at a SRv6OPS Working Group session.
@@ -34,8 +34,11 @@ Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested
 | China Unicom | Xinxin Yi | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=yUJoSgIBl54GkibY&t=1546) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-22-china-unicom-srv6-in-the-cloud-00)|[IETF120](https://datatracker.ietf.org/meeting/120/session/srv6ops)|
 | China Southern Power Grid | Jiangang Lu | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=c5W5tmCM17msh-MH&t=1165) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-22-srv6-in-smart-grid-00.pdf)|[IETF121](https://datatracker.ietf.org/meeting/121/session/srv6ops)|
 | MTN SA | Zoltan Miklos | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=HvZD3WZxW60EfH9R&t=366) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-mtn-south-africa-01)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
-| Alibaba Cloud | Linjian Song | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=t9h0kjiMK2dD8hjx&t=2627) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-alibaba-cloud-02)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
-| China Mobile | Tianji Jiang | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=F3ERmvO0LbtFHHPt&t=3314) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-china-mobile-00)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
+| Alibaba Cloud | Chen Fei |[▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=t9h0kjiMK2dD8hjx&t=2627) | [📄 PDF](https://datatracker.ietf.org/meeting/125/materials/slides-125-srv6ops-21-ipv6srv6-powering-alibaba-cloud-ai-computing-alibaba-02)|[IETF125](https://datatracker.ietf.org/meeting/125/session/srv6ops)|
+| | Linjian Song | [▶️ Watch](https://youtu.be/GwiJ_zFmewE?si=LWc_P7yTIRONBaUZ&t=310) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-alibaba-cloud-02)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
+| China Mobile | Jiaming Ye | [▶️ Watch](https://youtu.be/GwiJ_zFmewE?si=PmMe_qUuPGPysfGz&t=1437) | [📄 PDF](https://datatracker.ietf.org/meeting/125/materials/slides-125-srv6ops-22-srv6-driven-security-resource-pools-china-mobilev1-00)|[IETF125](https://datatracker.ietf.org/meeting/125/session/srv6ops)|
+| | Tianji Jiang | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=F3ERmvO0LbtFHHPt&t=3314) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-china-mobile-00)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
+| Guangdong Power Grid | Jiangang Lu | [▶️ Watch](https://youtu.be/GwiJ_zFmewE?si=-zNa-Wz2v6uNydQb&t=2223) | [📄 PDF](https://datatracker.ietf.org/meeting/125/materials/slides-125-srv6ops-23-srv6-for-end-to-end-services-guangdong-power-grid-01)|[IETF125](https://datatracker.ietf.org/meeting/125/session/srv6ops)|
 
 
 ## 📌 Tips for the Presenter 
